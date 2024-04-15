@@ -1,7 +1,7 @@
 # YouTube_Video_downloader
 
 
-## To install
+## To Install
 * pip3 install pytube
 
 
