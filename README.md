@@ -1,10 +1,10 @@
-## YouTube_Video_downloader
+# YouTube_Video_downloader
 
 
-# To install
+## To install
 * pip3 install pytube
 
 
-# To Run 
+## To Run 
 * 'python3 youtube.py "link" '
 ![alt text](image.png)
