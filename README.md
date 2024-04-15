@@ -2,7 +2,7 @@
 
 
 # To install
-* 
+* pip3 install pytube
 
 
 # To Run 
